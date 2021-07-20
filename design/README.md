@@ -1,8 +1,8 @@
 # Design
 
-## Design process
+## Design process and decisions
 
-Include deatils of our design process here
+Include deatils of our design process and decisions here
 
 ## Styles
 Unless otherwise stated, the platform uses [styles from the NHS Digital Service Manual](https://service-manual.nhs.uk/design-system/styles)
